@@ -1,12 +1,9 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by oztokmakc on 29/01/15.
- */
 //leetcode - ascii to integer
 public class Atoi {
 

@@ -1,8 +1,5 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-/**
- * Created by oztokmakc on 01/02/15.
- */
 //leetcode - unique paths
 public class UniquePaths {
 

@@ -1,13 +1,10 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-import javaexamples.leetcode.model.ListNode;
+import leetcode.java.model.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by oztokmakc on 04/02/15.
- */
 //leetcode - linked list cycle && linked list cycle II
 public class LinkedListCycle {
 

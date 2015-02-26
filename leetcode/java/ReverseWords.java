@@ -1,8 +1,5 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-/**
- * Created by oztokmakc on 04/02/15.
- */
 //leetcode - reverse words in a string
 public class ReverseWords {
 

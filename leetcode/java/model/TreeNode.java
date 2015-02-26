@@ -1,8 +1,5 @@
-package javaexamples.leetcode.model;
+package leetcode.java.model;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 public class TreeNode {
 
     public int val;

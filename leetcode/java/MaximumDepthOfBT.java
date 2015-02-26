@@ -1,10 +1,7 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-import javaexamples.leetcode.model.TreeNode;
+import leetcode.java.model.TreeNode;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 //leetcode - maximum depth of binary tree
 public class MaximumDepthOfBT {
 

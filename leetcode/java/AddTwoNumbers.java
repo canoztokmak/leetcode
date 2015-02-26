@@ -1,10 +1,7 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-import javaexamples.leetcode.model.ListNode;
+import leetcode.java.model.ListNode;
 
-/**
- * Created by oztokmakc on 29/01/15.
- */
 //leetcode - add two numbers
 public class AddTwoNumbers {
 

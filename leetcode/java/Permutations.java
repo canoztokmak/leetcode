@@ -1,12 +1,9 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 //leetcode - permutations
 public class Permutations {
 

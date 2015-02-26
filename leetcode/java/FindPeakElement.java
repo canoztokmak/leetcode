@@ -1,8 +1,5 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 //leetcode - find peak element
 public class FindPeakElement {
 

@@ -1,11 +1,8 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * Created by oztokmakc on 25/02/15.
- */
 // leetcode - lru cache
 public class LRUCache {
 

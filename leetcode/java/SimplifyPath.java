@@ -1,10 +1,7 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
 import java.util.Stack;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 //leetcode - simplify path
 public class SimplifyPath {
 

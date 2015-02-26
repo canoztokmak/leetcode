@@ -1,8 +1,5 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-/**
- * Created by oztokmakc on 25/02/15.
- */
 // leetcode - palindrome number
 public class PalindromeNumber {
 

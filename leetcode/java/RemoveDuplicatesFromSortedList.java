@@ -1,10 +1,7 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-import javaexamples.leetcode.model.ListNode;
+import leetcode.java.model.ListNode;
 
-/**
- * Created by oztokmakc on 25/02/15.
- */
 // leetcode - remove duplicates from sorted list
 public class RemoveDuplicatesFromSortedList {
 

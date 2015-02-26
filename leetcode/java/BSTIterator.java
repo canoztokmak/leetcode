@@ -1,13 +1,10 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-import javaexamples.leetcode.model.TreeNode;
+import leetcode.java.model.TreeNode;
 
 import java.util.SortedSet;
 import java.util.TreeSet;
 
-/**
- * Created by oztokmakc on 25/02/15.
- */
 // leetcode - BST iterator
 public class BSTIterator {
 

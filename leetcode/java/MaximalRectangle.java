@@ -1,8 +1,5 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 public class MaximalRectangle {
 
     public static int maximalRectangle(char[][] matrix) {

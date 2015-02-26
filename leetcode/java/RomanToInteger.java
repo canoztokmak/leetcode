@@ -1,11 +1,8 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by oztokmakc on 02/02/15.
- */
 //leetcode - roman to integer
 public class RomanToInteger {
 

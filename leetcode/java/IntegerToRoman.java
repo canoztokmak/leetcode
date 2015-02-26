@@ -1,8 +1,5 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
-/**
- * Created by oztokmakc on 26/02/15.
- */
 // leetcode - integer to roman
 public class IntegerToRoman {
 

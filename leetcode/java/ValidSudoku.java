@@ -1,13 +1,10 @@
-package javaexamples.leetcode;
+package leetcode.java;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by oztokmakc on 26/02/15.
- */
 // leetcode - valid sudoku
 public class ValidSudoku {
 
