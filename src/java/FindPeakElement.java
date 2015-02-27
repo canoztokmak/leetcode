@@ -1,4 +1,4 @@
-package leetcode.java;
+package java;
 
 //leetcode - find peak element
 public class FindPeakElement {

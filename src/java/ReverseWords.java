@@ -1,4 +1,4 @@
-package leetcode.java;
+package java;
 
 //leetcode - reverse words in a string
 public class ReverseWords {

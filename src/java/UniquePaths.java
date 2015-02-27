@@ -1,4 +1,4 @@
-package leetcode.java;
+package java;
 
 //leetcode - unique paths
 public class UniquePaths {

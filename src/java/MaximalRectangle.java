@@ -1,4 +1,4 @@
-package leetcode.java;
+package java;
 
 public class MaximalRectangle {
 

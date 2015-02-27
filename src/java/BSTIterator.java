@@ -1,6 +1,6 @@
-package leetcode.java;
+package java;
 
-import leetcode.java.model.TreeNode;
+import java.model.TreeNode;
 
 import java.util.SortedSet;
 import java.util.TreeSet;

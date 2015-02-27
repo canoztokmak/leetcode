@@ -1,6 +1,6 @@
-package leetcode.java;
+package java;
 
-import leetcode.java.model.ListNode;
+import java.model.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package leetcode.java.model;
+package java.model;
 
 public class ListNode {
 

@@ -1,6 +1,6 @@
-package leetcode.java;
+package java;
 
-import leetcode.java.model.ListNode;
+import java.model.ListNode;
 
 //leetcode - swap nodes in pairs
 public class SwapNodesInPairs {

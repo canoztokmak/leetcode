@@ -1,4 +1,4 @@
-package leetcode.java;
+package java;
 
 // leetcode - integer to roman
 public class IntegerToRoman {

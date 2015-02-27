@@ -1,4 +1,4 @@
-package leetcode.java;
+package java;
 
 // leetcode - valid number
 public class ValidNumber {
